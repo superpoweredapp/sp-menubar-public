@@ -1,1 +1,2 @@
-just for releases
+# Superpowered App
+For releases
